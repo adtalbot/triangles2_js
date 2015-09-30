@@ -1,0 +1,17 @@
+body {
+  background-color: #FF6A6A;
+  font-family: 'Cherry Cream Soda', cursive;
+}
+
+h1 {
+  font-size: 48px;
+  text-align: center;
+}
+
+.form-group {
+  text-align: center;
+}
+
+#result {
+  text-align: center;
+}
